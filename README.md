@@ -2,7 +2,7 @@
 
 ## About Me
 🎓 I'm currently studying Data Science at Indian Institute of Information Technology, Lucknow.
-🔭 Working on multiple frontend and backend project using [Your Favorite Technologies].
+🔭 Working on multiple data analytics projects using Python libraries and Probability and Statistics.
 🌱 Learning more about Data Analysis.
 💼 Seeking opportunities to join as an intern/full-time in Data Analyst role.
 📚 Reading more about Statistics.
