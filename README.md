@@ -19,6 +19,7 @@ I'm a Masters student in DataScience with expertising in data analysis and repor
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PAVANKUMARELETI&show_icons=true&hide_title=true)
 
 ## 🛠️ Languages and Tools
+Here are some of the Tools and Languages that I use:
 
 ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-black?style=flat-square&logo=google-bigquery), ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql), ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 
