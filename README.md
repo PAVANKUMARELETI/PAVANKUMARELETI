@@ -1,5 +1,9 @@
 # Hi This is Mr Eleti 👋
 
+![Profile Image]([https://via.placeholder.com/150](https://drive.google.com/file/d/1kEqb3KrYMUyggRunFyFTawzcKS7Xh-Ru/view?usp=drivesdk))
+
+
+
 ## About Me
 I am Pavan Kumar Eleti, a passionate aspiring Data analyst, Data scientist.
 I'm a Masters student in DataScience with expertising in data analysis and reporting, query optimization, data modelling and data visualizations.
