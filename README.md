@@ -20,12 +20,14 @@ I'm a Masters student in DataScience with expertising in data analysis and repor
 
 ## 🛠️ Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
+![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-black?style=flat-square&logo=google-bigquery), ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql), ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python), ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visual-studio-code), ![Anaconda](https://img.shields.io/badge/-Anaconda-black?style=flat-square&logo=anaconda), ![JupyterLab](https://img.shields.io/badge/-JupyterLab-black?style=flat-square&logo=jupyter), ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-black?style=flat-square&logo=jupyter)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy), ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas), ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib), ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=plotly), ![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=seaborn), ![SciPy](https://img.shields.io/badge/-SciPy-black?style=flat-square&logo=scipy), ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-black?style=flat-square&logo=scikit-learn)
+![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau), ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-black?style=flat-square&logo=microsoft-excel)
+![Microsoft](https://img.shields.io/badge/-Microsoft-black?style=flat-square&logo=microsoft), ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-black?style=flat-square&logo=microsoft-office), ![Canva](https://img.shields.io/badge/-Canva-black?style=flat-square&logo=canva)
+
+
+
 
 ## 📫 How to Reach Me
 
