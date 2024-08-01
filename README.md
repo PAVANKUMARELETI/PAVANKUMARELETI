@@ -1,20 +1,22 @@
 # Hi This is Mr Eleti 👋
 
 ## About Me
-I am [Pavan Kumar Eleti], a passionate aspiring Data analyst, Data scientist.
+I am Pavan Kumar Eleti, a passionate aspiring Data analyst, Data scientist.
+I'm a Masters student in DataScience with expertising in data analysis and reporting, query optimization, data modelling and data visualizations.
 
-- 🔭 I’m currently working on [Your Project]
-- 🌱 I’m currently learning [Your Learning Goals]
-- 👯 I’m looking to collaborate on [Your Collaboration Interests]
-- 🤔 I’m looking for help with [Your Help Request]
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Contact Information]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
+-  Querying data using SQL to generate reports and perform data analysis.
+-  Developing dashboards on Tableau and Excel to enhance data visualization.
+-  Analyzing and reporting data with Google Sheets and Microsoft Excel.
+-  Manipulating and wrangling data utilizing Python and its libraries.
+-  Performing exploratory data analysis (EDA) through hypothesis testing and feature engineering using Scipy for statistical analysis.
+-  Learning and mastering machine learning algorithms, both supervised and unsupervised.
+
+
+
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PAVANKUMARELETI&show_icons=true&hide_title=true)
 
 ## 🛠️ Languages and Tools
 
