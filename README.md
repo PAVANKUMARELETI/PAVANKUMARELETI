@@ -1,7 +1,7 @@
-# Hi there 👋
+# Hi This is Mr Eleti 👋
 
 ## About Me
-I am [Your Name], a passionate developer.
+I am [Pavan Kumar Eleti], a passionate aspiring Data analyst, Data scientist.
 
 - 🔭 I’m currently working on [Your Project]
 - 🌱 I’m currently learning [Your Learning Goals]
