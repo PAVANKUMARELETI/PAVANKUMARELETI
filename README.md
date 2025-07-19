@@ -19,9 +19,11 @@ I'm a Masters student in DataScience from Indian Institute of Information Techno
 -  Performing exploratory data analysis (EDA) through hypothesis testing and feature engineering using Scipy for statistical analysis.
 -  Learning and mastering machine learning algorithms, both supervised and unsupervised.
 
+![Profile views](https://komarev.com/ghpvc/?username=pavankumareleti&label=Profile%20views&color=0e75b6&style=flat)
+
 👇Here I document a summary of my projects
 
-![Profile views](https://komarev.com/ghpvc/?username=pavankumareleti&label=Profile%20views&color=0e75b6&style=flat)
+
 
 ---
 
