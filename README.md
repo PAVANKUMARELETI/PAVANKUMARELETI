@@ -21,6 +21,7 @@ I'm a Masters student in DataScience from Indian Institute of Information Techno
 
 👇Here I document a summary of my projects
 
+![Profile views](https://komarev.com/ghpvc/?username=pavankumareleti&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
