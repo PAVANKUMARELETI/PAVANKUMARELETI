@@ -69,10 +69,10 @@
 ### 🌾 Enterprise & AI Systems
 | Project | Description | Tools |
 |----------|--------------|-------|
-| 🧠 [**Enterprise-Grade AWS Predictive Maintenance System**](#) | Built an end-to-end AWS-based predictive maintenance solution using IoT + ML. | AWS, Python, MLflow, Lambda |
-| 🧑‍⚕️ [**MedicalAssistant-RAG-with-RBAC**](#) | RAG-powered healthcare chatbot with secure access roles. | LangChain, Gemini API, RAG |
-| 🤖 [**MultiModel RAG with Gemini**](#) | Multimodal AI combining vision + text understanding. | Python, FAISS, Gemini |
-| 📰 [**News Research AI Tool**](#) | AI-powered summarizer that ranks, summarizes, and compares world news. | LangChain, Streamlit, Gemini |
+| 🧠 [**Enterprise-Grade AWS Predictive Maintenance System**](https://github.com/PAVANKUMARELETI/Enterprise-Grade-AWS-Based-Advanced-Equipment-Prognostics-and-Predictive-Maintenance-System) | Built an end-to-end AWS-based predictive maintenance solution using IoT + ML. | AWS, Python, MLflow, Lambda |
+| 🧑‍⚕️ [**MedicalAssistant-RAG-with-RBAC**](https://github.com/PAVANKUMARELETI/MedicalAssistant-RAG-with-RBAC) | RAG-powered healthcare chatbot with secure access roles. | LangChain, Gemini API, RAG |
+| 🤖 [**MultiModel RAG with Gemini**](https://github.com/PAVANKUMARELETI/MultiModel-Rag--with-Gemini) | Multimodal AI combining vision + text understanding. | Python, FAISS, Gemini |
+| 📰 [**News Research AI Tool**](https://github.com/PAVANKUMARELETI/News_Research_AI_Tool) | AI-powered summarizer that ranks, summarizes, and compares world news. | LangChain, Streamlit, Gemini |
 
 ---
 
@@ -80,10 +80,10 @@
 | Project | Description | Tools |
 |----------|--------------|-------|
 | 🚗 [**Ola Driver Churn Prediction**](https://github.com/PAVANKUMARELETI/Ola-Driver-Churn-Prediction) | Churn model using LightGBM & SHAP, with explainability. | Python, LightGBM, SHAP |
-| 🏪 [**Walmart Sales Forecasting**](#) | Time series forecasting & CLT-based confidence analysis. | Pandas, Statsmodels |
+| 🏪 [**Walmart Sales Forecasting**](https://github.com/PAVANKUMARELETI/Walmart-Sales-Prediction) | Time series forecasting & CLT-based confidence analysis. | Pandas, Statsmodels |
 | 🕒 [**Twitter Stock Prediction**](https://github.com/PAVANKUMARELETI/Twitter-stock-price-data---Time-Series-Forecasting-with-Prophet) | Prophet model forecasting Twitter stock trends. | Prophet, Pandas, Plotly |
-| 📈 [**Product Demand Forecasting**](#) | Retail demand prediction using regression + feature selection. | Sklearn, EDA |
-| 🧮 [**A/B Testing Experiment**](#) | Statistical hypothesis testing for marketing uplift. | SciPy, Pandas |
+| 📈 [**Product Demand Forecasting**](https://github.com/PAVANKUMARELETI/product-demand-forecasting) | Retail demand prediction using regression + feature selection. | Sklearn, EDA |
+| 🧮 [**A/B Testing Experiment**](https://github.com/PAVANKUMARELETI?tab=repositories) | Statistical hypothesis testing for marketing uplift. | SciPy, Pandas |
 
 ---
 
@@ -91,9 +91,9 @@
 | Project | Description | Tools |
 |----------|--------------|-------|
 | 📊 [**Power BI Sales Dashboard**](https://github.com/PAVANKUMARELETI/PowerBI-Sales-Dashboard) | Interactive YoY analysis of profit, sales & quantity. | Power BI |
-| 🛍 [**Ecommerce Dashboard (Excel)**](#) | Comprehensive KPI analysis with slicers & pivots. | Excel |
-| ☕ [**Costa Café Retail Analytics**](#) | Multi-branch performance insights dashboard. | Power BI |
-| 📊 [**Blinkit Sales Analytics (SQL)**](#) | SQL-based data model for retail sales optimization. | MySQL, Excel |
+| 🛍 [**Ecommerce Dashboard (Excel)**](https://github.com/PAVANKUMARELETI/Ecommerce-Data-Analysis-Dashboard-Using-Excel) | Comprehensive KPI analysis with slicers & pivots. | Excel |
+| ☕ [**Costa Café Retail Analytics**](https://github.com/PAVANKUMARELETI/Costa-Cafe-Retail-Analytics-Dashboard) | Multi-branch performance insights dashboard. | Power BI |
+| 📊 [**Blinkit Sales Analytics (SQL)**](https://github.com/PAVANKUMARELETI/Blinkit-Sales-Analytics-using-SQL) | SQL-based data model for retail sales optimization. | MySQL, Excel |
 
 ---
 
@@ -102,8 +102,8 @@
 |----------|--------------|-------|
 | 📉 [**LoanTap - Logistic Regression**](https://github.com/PAVANKUMARELETI/LogisticRegression---LoanTap) | Loan approval prediction model using logistic regression. | Sklearn, Pandas |
 | 📈 [**Linear Regression - Jamboree**](https://github.com/PAVANKUMARELETI/LinearRegression---Jamboree) | GRE score prediction using Ridge, Lasso, ElasticNet. | Statsmodels, Numpy |
-| 🤖 [**Perceptron Algorithm Implementation**](#) | Hand-coded Perceptron algorithm with visualization. | Python, Numpy |
-| 💬 [**NLP Chatbot**](#) | Context-based chatbot with Python + NLTK. | NLTK, Regex |
+| 🤖 [**Perceptron Algorithm Implementation**](https://github.com/PAVANKUMARELETI/perceptron-algorithm) | Hand-coded Perceptron algorithm with visualization. | Python, Numpy |
+| 💬 [**NLP Chatbot**](https://github.com/PAVANKUMARELETI/nlp_chatbot) | Context-based chatbot with Python + NLTK. | NLTK, Regex |
 
 ---
 
@@ -124,13 +124,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAVANKUMARELETI&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
----
-
-## 🐍 Contribution Animation  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PAVANKUMARELETI/<REPO>/main/assets/snake.svg" alt="contribution-snake" />
 </p>
 
 
