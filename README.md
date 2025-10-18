@@ -130,8 +130,9 @@
 
 ## 🐍 Contribution Animation  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PAVANKUMARELETI/PAVANKUMARELETI/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/PAVANKUMARELETI/<REPO>/main/assets/snake.svg" alt="contribution-snake" />
 </p>
+
 
 ---
 
