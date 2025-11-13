@@ -15,18 +15,18 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 M.Sc. (Data Science) @ IIIT Lucknow | Data Science Intern @ ITC Limited — I build ML systems, time-series models, and data products that deliver business impact.
 
 ---
 
-## 🚀 All Repositories (complete list)
+##  All Repositories (complete list)
 
 > Each entry links to the repo (username/repo). If a repo is private or renamed, update the link in your README after pasting.
 
 ---
 
-### 🌾 Enterprise AI & Production Systems
+###  Enterprise AI & Production Systems
 - [Enterprise-Grade-AWS-Based-Advanced-Equipment-Prognostics-and-Predictive-Maintenance-System](https://github.com/PAVANKUMARELETI/Enterprise-Grade-AWS-Based-Advanced-Equipment-Prognostics-and-Predictive-Maintenance-System) — End-to-end AWS predictive maintenance pipeline (IoT → ETL → ML → monitoring). *Tech: AWS, Python, MLflow, Lambda.*
 - [MedicalAssistant-RAG-with-RBAC](https://github.com/PAVANKUMARELETI/MedicalAssistant-RAG-with-RBAC) — RAG chatbot for healthcare with role-based access. *Tech: LangChain, Gemini, Python.*
 - [MultiModel-Rag--with-Gemini](https://github.com/PAVANKUMARELETI/MultiModel-Rag--with-Gemini) — Multimodal RAG combining image + text with embeddings. *Tech: LangChain, FAISS, Gemini.*
@@ -36,7 +36,7 @@ M.Sc. (Data Science) @ IIIT Lucknow | Data Science Intern @ ITC Limited — I bu
 
 ---
 
-### 📊 Data Science & Forecasting
+###  Data Science & Forecasting
 - [Walmart-Sales-Prediction](https://github.com/PAVANKUMARELETI/Walmart-Sales-Prediction) — Sales forecasting & CLT analysis. *Tech: Statsmodels, Pandas.*
 - [Twitter-stock-price-data---Time-Series-Forecasting-with-Prophet](https://github.com/PAVANKUMARELETI/Twitter-stock-price-data---Time-Series-Forecasting-with-Prophet) — Prophet-based time-series forecasting. *Tech: Prophet, Plotly.*
 - [Time-Series-Analysis-using-Python-and-Plotly](https://github.com/PAVANKUMARELETI/Time-Series-Analysis-using-Python-and-Plotly) — Interactive time-series EDA & viz. *Tech: Plotly.*
@@ -46,7 +46,7 @@ M.Sc. (Data Science) @ IIIT Lucknow | Data Science Intern @ ITC Limited — I bu
 
 ---
 
-### 🔬 Statistical Analysis & Capstones
+###  Statistical Analysis & Capstones
 - [A-B-Testing-Experiment](https://github.com/PAVANKUMARELETI/A-B-Testing-Experiment) — Hypothesis testing for marketing campaigns. *Tech: SciPy, Pandas.*
 - [YULU_Bikes-Hypothesis_Testing](https://github.com/PAVANKUMARELETI/YULU_Bikes-Hypothesis_Testing) — Hypothesis testing (t-test, ANOVA) on shared-bike data. *Tech: SciPy, Seaborn.*
 - [Confidence_Interval_-_Central_Limit_Theorem-Walmart-](https://github.com/PAVANKUMARELETI/Confidence_Interval_-_Central_Limit_Theorem-Walmart-) — CLT demo & confidence intervals on sales data.
@@ -57,7 +57,7 @@ M.Sc. (Data Science) @ IIIT Lucknow | Data Science Intern @ ITC Limited — I bu
 
 ---
 
-### 🧠 Classic ML Foundations & Algorithms
+###  Classic ML Foundations & Algorithms
 - [LogisticRegression---LoanTap](https://github.com/PAVANKUMARELETI/LogisticRegression---LoanTap) — Logistic regression loan approval model with feature engineering. *Tech: Scikit-learn.*
 - [Logistic-regression--project](https://github.com/PAVANKUMARELETI/Logistic-regression--project) — Another logistic regression credit project.
 - [LinearRegression---Jamboree](https://github.com/PAVANKUMARELETI/LinearRegression---Jamboree) — Linear, Ridge, Lasso, ElasticNet for student score prediction. *Tech: Statsmodels.*
@@ -66,7 +66,7 @@ M.Sc. (Data Science) @ IIIT Lucknow | Data Science Intern @ ITC Limited — I bu
 
 ---
 
-### 📈 Business Intelligence & Dashboards
+###  Business Intelligence & Dashboards
 - [PowerBI-Sales-Dashboard](https://github.com/PAVANKUMARELETI/PowerBI-Sales-Dashboard) — Interactive Power BI sales dashboard (YoY, KPIs).
 - [Ecommerce-Data-Analysis-Dashboard-Using-Excel](https://github.com/PAVANKUMARELETI/Ecommerce-Data-Analysis-Dashboard-Using-Excel) — Excel-based e-commerce dashboard.
 - [Sales-KPI-Dashboard-Excel](https://github.com/PAVANKUMARELETI/Sales-KPI-Dashboard-Excel) — Excel KPI pack for sales.
@@ -77,7 +77,7 @@ M.Sc. (Data Science) @ IIIT Lucknow | Data Science Intern @ ITC Limited — I bu
 
 ---
 
-### 🗃 Data Engineering & SQL
+###  Data Engineering & SQL
 - [data-pipeline-dashboard](https://github.com/PAVANKUMARELETI/data-pipeline-dashboard) — ETL pipeline monitoring and dashboards. *Tech: Airflow, SQL, Python.*
 - [Blinkit-Sales-Analytics-using-SQL](https://github.com/PAVANKUMARELETI/Blinkit-Sales-Analytics-using-SQL) — SQL-based retail analysis.
 - [HR-Analytics-SQL-Project](https://github.com/PAVANKUMARELETI/HR-Analytics-SQL-Project) — Workforce analytics with SQL.
@@ -85,7 +85,7 @@ M.Sc. (Data Science) @ IIIT Lucknow | Data Science Intern @ ITC Limited — I bu
 
 ---
 
-### 🧩 SDE / Apps / Demos
+###  SDE / Apps / Demos
 - [traffic-prediction-streamlit-app](https://github.com/PAVANKUMARELETI/traffic-prediction-streamlit-app) — Streamlit app for traffic prediction (interactive).
 - [car-analysis-pipeline](https://github.com/PAVANKUMARELETI/car-analysis-pipeline) — End-to-end vehicle dataset cleaning & reporting.
 - [nlp_chatbot](https://github.com/PAVANKUMARELETI/nlp_chatbot) — Rule-based + ML chatbot demos.
@@ -94,7 +94,7 @@ M.Sc. (Data Science) @ IIIT Lucknow | Data Science Intern @ ITC Limited — I bu
 
 ---
 
-### 🗂 Repo utilities & Profile config
+###  Repo utilities & Profile config
 - [PAVANKUMARELETI](https://github.com/PAVANKUMARELETI/PAVANKUMARELETI) — Profile README / config repo (this repo).
 - [PAVANKUMARELETI.github.io](https://github.com/PAVANKUMARELETI/PAVANKUMARELETI.github.io) — GitHub Pages repo for portfolio site content.
 - [Personal] (private) — personal notes / projects.
@@ -109,7 +109,7 @@ M.Sc. (Data Science) @ IIIT Lucknow | Data Science Intern @ ITC Limited — I bu
 
 ---
 
-## 📊 GitHub Activity & Stats
+##  GitHub Activity & Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PAVANKUMARELETI&theme=tokyonight_duo&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=PAVANKUMARELETI&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
